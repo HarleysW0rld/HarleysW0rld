@@ -8,9 +8,10 @@
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-**[HIRE ME][hireme]**<br>
-**[HIRE ME][hireme]**<br>
-**[HIRE ME][hireme]**<br>
+**[HIRE ME!](https://discord.gg/7JpHnTDEv3)**<br>
+**[HIRE ME!](https://discord.gg/7JpHnTDEv3)**<br>
+**[HIRE ME!](https://discord.gg/7JpHnTDEv3)**<br>
+
 <br>
 **[Join Discord][discord]**
 
