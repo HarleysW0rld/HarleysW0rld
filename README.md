@@ -13,7 +13,7 @@
 **[HIRE ME!](https://discord.gg/7JpHnTDEv3)**<br>
 
 <br>
-**[JOIN DISCORD](https://discord.gg/7JpHnTDEv3)**
+**[JOIN DISCORD!](https://discord.gg/7JpHnTDEv3)**
 
 ## 🔧 Technologies & Tools
 
