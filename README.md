@@ -11,9 +11,6 @@
 **[HIRE ME!](https://discord.gg/7JpHnTDEv3)**<br>
 **[HIRE ME!](https://discord.gg/7JpHnTDEv3)**<br>
 
-<br>
-**[JOIN DISCORD!](https://discord.gg/7JpHnTDEv3)**<br>
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=9B9B9B)
@@ -29,5 +26,3 @@
 ----
 
 *Thanks [ItzHyperz](https://github.com/Itz-Hyperz) for description.*
-
-```
